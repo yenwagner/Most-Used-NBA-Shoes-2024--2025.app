@@ -6,7 +6,7 @@ This Project displays a chart of most used shoes in NBA seasons 2024-2025
 
 Although its a beginner level dashboard,this project was reflects my journey of learning in the field of data analytics, as my skills improve i'll work on improving this project
 
-TECH STACK:
+🖥️TECH STACK:
 
 -Phyton #core programming language
 
@@ -23,7 +23,9 @@ TECH STACK:
 -github  #version control and project hosting 
 
 
-Future Updates:
+
+
+🔮Future Updates:
   -Brand wise pie chart
   
   -Hover over chart displaying
